@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>1</title>
@@ -13,22 +13,28 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/otherwork/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/otherwork/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>The Skill Content of Occupations across Low and Middle Income Countries: Evidence from Harmonized Data</title>
+      <link>/otherwork/0wb/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/otherwork/0wb/</guid>
+      <description>&lt;p&gt;Using new and harmonized worker-level survey data on tasks at work in the developing
+world, this paper constructs, for the first time, a measure of the skill content of occupations
+for 10 low and middle-income countries. Following Autor, Levy and Murnane (2003),
+Acemoglu and Autor (2011), and Autor and Handel (2013), we map tasks into non-routine
+analytical, non-routine interpersonal, and routine &amp;amp; manual skill groups. We find significant
+differences in the skill mix used by workers across different occupations, with selected whitecollar occupations being intensive in Analytical and Interpersonal skills, while others— mostly
+blue collar, but not only— being more intensive in Routine and Manual skills. We also find
+that the rankings of occupations along the skill dimensions are quite stable across countries,
+and they correlate significantly higher between middle- and low-income countries than
+between them and the United States. Hence, the common practice of assuming the same
+skill structure for occupations in the United States and other countries can be misleading.
+Finally, we find that the heterogeneity of skill content between occupations (within countries)
+tends to decrease with the level of income, while the heterogeneity within occupations
+decreases only weakly (or not at all) for higher income levels. Taken together, these results
+suggest that as countries develop, they tend to adopt and use certain skills more widely,
+especially across occupations. This may suggest some degree of specialization in skills
+content of tasks as countries develop, especially moving towards less occupation-specific
+Analytical or Interpersonal skills that are becoming increasingly relevant across the board.&lt;/p&gt;
 </description>
     </item>
     
@@ -37,26 +43,6 @@
       <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/workinprogress/0migration/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/workinprogress/0migration/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

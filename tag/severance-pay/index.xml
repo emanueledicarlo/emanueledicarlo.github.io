@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>severance pay | Emanuele Dicarlo</title>
+    <link>/tag/severance-pay/</link>
+      <atom:link href="/tag/severance-pay/index.xml" rel="self" type="application/rss+xml" />
+    <description>severance pay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>severance pay</title>
+      <link>/tag/severance-pay/</link>
+    </image>
+    
+    <item>
+      <title>Cash on Hand and Job Market Outcomes (joint with J. Zweimüller)</title>
+      <link>/workinprogress/1coh/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/workinprogress/1coh/</guid>
+      <description>&lt;p&gt;Job loss severely impacts consumption and many other aspects of households’ lives. The two most popular instruments to insure against job loss are Unemployment Benefits (UB) and Severance Payments (SP). In this paper we analyze the effect of SP and the interaction with UB on unemployment duration and on subsequent long-term post-unemployment outcomes (currently work in progress). We aim at investigating and disentangling the role of SP and UB on labor market outcomes up to 10 years after job loss.
+We rely on the Austrian Social Security Database (ASSD) and exploit a reform which abolished SP for jobs starting later than 2003. At 36 months of tenure, workers become eligible to 2 months of SP. We implement a difference-in-discontinuity analysis and compare nonemployment durations of individuals laid off shortly before and after the 36 months tenure threshold. Looking at this discontinuity before and after 2003 allows us to capture the effect of the cut in SP on nonemployment duration.
+Our results show that a shortage of cash on hand equivalent to two months of salary, conditional on unemployment benefits, reduces days in non-employment before next job by 10%. The magnitude of this effect varies according to the experience of the job loser: younger workers display a larger liquidity effect. In the next step we will analyze the impact of benefits’ generosity, distinguishing the role or UB and SP, on total employment duration, total labor income, and wage growth up to ten years after the first job loss relating these outcomes to the quality of the subsequent job.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
