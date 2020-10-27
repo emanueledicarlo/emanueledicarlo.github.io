@@ -125,7 +125,18 @@
       <link>/workinprogress/0migration/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/workinprogress/0migration/</guid>
-      <description>&lt;p&gt;The way firms adjust to local labor supply shocks has gained attention in the literature following a worldwide increase in the mobility of labor. In this paper I study the consequences of a unique quasi-experiment in which Italian firms are affected by an exogenous negative labor supply shock. I implement a difference-in-differences analysis where I exploit the complete removal of immigration restrictions between Italy and Switzerland from 1999 to 2015 together with the distance of Italian firms from the Swiss border. I rely on rich social security data on the universe of Italian private sector’s firms and workers, coupled with cross-border workers characteristics from the Swiss social security database. I analyze how firm across different sectors adjust to this shock along three dimensions: factors’ prices, productivity, and capital accumulation. I find that treated firms have on average a 1.5 times higher turnover compared to firms in the control group. Within one year they replace all the separations and keep their size constant. In line with monopsony models, firms initially try to retain workers increasing their wages. As this appears to become too costly, I will next investigate further mechanisms of adjustment such as, investment in technology, labor productivity, and capital accumulation. I will finally provide evidence on how these changes reshape labor force participations and I will shed light on their implications in terms of costs of turnover.&lt;/p&gt;
+      <description>&lt;p&gt;The way firms adjust to local labor supply shocks has gained attention in the literature following a worldwide increase in the mobility of labor. I study the consequences of a unique quasi-experiment where Italian firms are affected by an exogenous
+negative labor supply shock of migration outflows from Italy to Switzerland. I implement a Diff-in-Diff
+specification leveraging on exogenous variation from the implementation of a policy in which Switzerland
+granted free labor market mobility to EU citizens, and on different treatment intensity of Italian firms,
+based on their distance to the Swiss border. I use detailed social security data on the universe of Italian
+firms and workers, together with firms’ balance sheet data. I find 3 percentage points of treated firm does
+not survive. Surviving firms show a puzzling result: despite replacing the lost workers and becoming
+more capital intensive, treated firms are less productive and have a lower wage growth. I explain this
+puzzle through the lens of a simple model of imperfect substitutability of workers. I show that low-skill
+intensive firms do not suffer from any productivity losses and are able to pay their workers higher wages.
+High-skill intensive ones instead face a tighter market for high skilled labor and drive the negative results
+on productivity and wage growth.&lt;/p&gt;
 </description>
     </item>
     
